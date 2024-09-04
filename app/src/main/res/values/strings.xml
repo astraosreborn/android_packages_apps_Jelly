@@ -4,7 +4,7 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources>
-    <string name="app_name">Browser</string>
+    <string name="app_name">Planet</string>
 
     <!-- URL bar: more button -->
     <string name="url_bar_more">More</string>
@@ -26,7 +26,7 @@
     <!-- Menu action: create new tab -->
     <string name="menu_new_tab">New tab</string>
     <!-- Menu action: create new incognito tab -->
-    <string name="menu_incognito">Incognito tab</string>
+    <string name="menu_incognito">Incognito tab ;)</string>
     <!-- Menu action: add current page to favorites -->
     <string name="menu_fav_add">Add to favorites</string>
     <!-- Menu action: share current page -->
